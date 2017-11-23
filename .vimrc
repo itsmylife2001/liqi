@@ -1,0 +1,1 @@
+/home/lq/.my_config/vim/vimrc_howchen
